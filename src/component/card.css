@@ -12,7 +12,8 @@ body {
   border: 1px solid #777;
   border-radius: 0.5rem;
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
-  min-width: 400px;
+  min-width: 300px;
+  max-height: 400px;
   padding: 1.5rem;
   font-family: Arial;
 }
